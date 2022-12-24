@@ -1,0 +1,59 @@
+/wp-admin/
+/wp-content/index.php
+/wp-content/languages
+/wp-content/plugins/index.php
+/wp-content/themes/index.php
+
+#WP Rocket Modifications
+/wp-content/advanced-cache.php
+/wp-content/wp-rocket-config
+
+/wp-content/cache
+
+/wp-includes/
+/index.php
+/license.txt
+/readme.html
+/wp-*.php
+/xmlrpc.php
+
+# Configuration
+wp-config.php
+
+# Example themes
+/wp-content/themes/twenty*/
+
+# Example plugin
+/wp-content/plugins/hello.php
+
+# Uploads
+/wp-content/uploads/
+
+# Log files
+*.log
+
+# htaccess
+/.htaccess
+
+# All plugins
+#
+# Note: If you wish to whitelist plugins,
+# uncomment the next line
+#/wp-content/plugins
+
+# All themes
+#
+# Note: If you wish to whitelist themes,
+# uncomment the next line
+#/wp-content/themes
+
+/.tmb
+/.well-known
+/Default.html
+/keys
+/php_errorlog
+/robots.txt
+/gitcommands
+/adminer.php
+/php.ini
+/phpinfo.php
